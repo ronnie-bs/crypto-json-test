@@ -1,0 +1,2042 @@
+[
+    {
+        "id": "1459",
+        "title": "Personal Assistant Under Supervision I",
+        "description": "Working under direct supervision or working autonomously on routine assignments (4 positions)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB01",
+        "standardHayGrade": "8",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1460",
+        "title": "Personal Assistant Under Supervision II",
+        "description": "Working under direct supervision or working autonomously on routine assignments (4 positions)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB01",
+        "standardHayGrade": "9",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1461",
+        "title": "Personal Assistant Under Supervision III",
+        "description": "Working under direct supervision or working autonomously on routine assignments (4 positions)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB01",
+        "standardHayGrade": "10",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1462",
+        "title": "Personal Assistant Under Supervision IV",
+        "description": "Working under direct supervision or working autonomously on routine assignments (4 positions)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB01",
+        "standardHayGrade": "11",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1463",
+        "title": "Autonomous Personal Assistant I",
+        "description": "Autonomous support role directly reporting to a manager in the organization (3 positions)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB02",
+        "standardHayGrade": "10",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1464",
+        "title": "Autonomous Personal Assistant II",
+        "description": "Autonomous support role directly reporting to a manager in the organization (3 positions)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB02",
+        "standardHayGrade": "11",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1465",
+        "title": "Autonomous Personal Assistant III",
+        "description": "Autonomous support role directly reporting to a manager in the organization (3 positions)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB02",
+        "standardHayGrade": "12",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1466",
+        "title": "Personal Assistant to Top Level Managers I",
+        "description": "High level services reporting to highest levels in the organization",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB03",
+        "standardHayGrade": "12",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1467",
+        "title": "Personal Assistant to Top Level Managers II",
+        "description": "High level services reporting to highest levels in the organization",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB03",
+        "standardHayGrade": "13",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1468",
+        "title": "Personal Assistant to Top Level Managers III",
+        "description": "High level services reporting to highest levels in the organization",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB03",
+        "standardHayGrade": "14",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1469",
+        "title": "Personal Assistant to Top Level Managers IV",
+        "description": "High level services reporting to highest levels in the organization",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB03",
+        "standardHayGrade": "15",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1470",
+        "title": "Manager of Personal Assistants I",
+        "description": "Hierarchically accountable for a group of secretaries",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB04",
+        "standardHayGrade": "12",
+        "levelName": "Front Line Manager",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1471",
+        "title": "Manager of Personal Assistants II",
+        "description": "Hierarchically accountable for a group of secretaries",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB04",
+        "standardHayGrade": "13",
+        "levelName": "Front Line Manager",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1472",
+        "title": "Manager of Personal Assistants III",
+        "description": "Hierarchically accountable for a group of secretaries",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB04",
+        "standardHayGrade": "14",
+        "levelName": "Front Line Manager",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1473",
+        "title": "Manager of Personal Assistants IV",
+        "description": "Hierarchically accountable for a group of secretaries",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASB04",
+        "standardHayGrade": "15",
+        "levelName": "Front Line Manager",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Secretarial",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1494",
+        "title": "Word Processing Operator I",
+        "description": "Operates automated text-editing equipment",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASD01",
+        "standardHayGrade": "8",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Document Production",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1495",
+        "title": "Word Processing Operator II",
+        "description": "Operates automated text-editing equipment",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASD01",
+        "standardHayGrade": "9",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Document Production",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1496",
+        "title": "Word Processing Operator III",
+        "description": "Operates automated text-editing equipment",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASD01",
+        "standardHayGrade": "10",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Document Production",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1497",
+        "title": "Desktop Publisher I",
+        "description": "Operates desktop publishing systems to complete  assignments",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASD02",
+        "standardHayGrade": "10",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Document Production",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1498",
+        "title": "Desktop Publisher II",
+        "description": "Operates desktop publishing systems to complete  assignments",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "ASD02",
+        "standardHayGrade": "11",
+        "levelName": "Individual Contributor",
+        "familyName": "Administration / Support / Service",
+        "subFamilyName": "Document Production",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1519",
+        "title": "Advisor Public Relations and Communications II",
+        "description": "Accountable for developing communication products, execute public affair activities and coordinate / execute plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CAC01",
+        "standardHayGrade": "15",
+        "levelName": "Individual Contributor",
+        "familyName": "Corporate Affairs",
+        "subFamilyName": "Public Relations and Communications",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1520",
+        "title": "Advisor Public Relations and Communications III",
+        "description": "Accountable for developing communication products, execute public affair activities and coordinate / execute plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CAC01",
+        "standardHayGrade": "16",
+        "levelName": "Individual Contributor",
+        "familyName": "Corporate Affairs",
+        "subFamilyName": "Public Relations and Communications",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1521",
+        "title": "Advisor Public Relations and Communications IV",
+        "description": "Accountable for developing communication products, execute public affair activities and coordinate / execute plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CAC01",
+        "standardHayGrade": "17",
+        "levelName": "Individual Contributor",
+        "familyName": "Corporate Affairs",
+        "subFamilyName": "Public Relations and Communications",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1522",
+        "title": "Manager Public Relations and Communications I",
+        "description": "Hierarchical manages team(s) and accountable for developing and realizing strategic public affair and communication plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CAC02",
+        "standardHayGrade": "17",
+        "levelName": "Individual Contributor",
+        "familyName": "Corporate Affairs",
+        "subFamilyName": "Public Relations and Communications",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1523",
+        "title": "Manager Public Relations and Communications II",
+        "description": "Hierarchical manages team(s) and accountable for developing and realizing strategic public affair and communication plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CAC02",
+        "standardHayGrade": "18",
+        "levelName": "Individual Contributor",
+        "familyName": "Corporate Affairs",
+        "subFamilyName": "Public Relations and Communications",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1524",
+        "title": "Manager Public Relations and Communications III",
+        "description": "Hierarchical manages team(s) and accountable for developing and realizing strategic public affair and communication plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CAC02",
+        "standardHayGrade": "19",
+        "levelName": "Individual Contributor",
+        "familyName": "Corporate Affairs",
+        "subFamilyName": "Public Relations and Communications",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1525",
+        "title": "Manager Public Relations and Communications IV",
+        "description": "Hierarchical manages team(s) and accountable for developing and realizing strategic public affair and communication plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CAC02",
+        "standardHayGrade": "20",
+        "levelName": "Individual Contributor",
+        "familyName": "Corporate Affairs",
+        "subFamilyName": "Public Relations and Communications",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1526",
+        "title": "Call Center Operator I",
+        "description": "Acts upon customer telephone enquiries and responds to requests for information",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH01",
+        "standardHayGrade": "9",
+        "levelName": "Individual Contributor",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1527",
+        "title": "Call Center Operator II",
+        "description": "Acts upon customer telephone enquiries and responds to requests for information",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH01",
+        "standardHayGrade": "10",
+        "levelName": "Individual Contributor",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1528",
+        "title": "Call Center Operator III",
+        "description": "Acts upon customer telephone enquiries and responds to requests for information",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH01",
+        "standardHayGrade": "11",
+        "levelName": "Individual Contributor",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1529",
+        "title": "Call Center Operator IV",
+        "description": "Acts upon customer telephone enquiries and responds to requests for information",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH01",
+        "standardHayGrade": "12",
+        "levelName": "Individual Contributor",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1530",
+        "title": "Call Center Operator V",
+        "description": "Acts upon customer telephone enquiries and responds to requests for information",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH01",
+        "standardHayGrade": "13",
+        "levelName": "Individual Contributor",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1531",
+        "title": "Call Center Specialist I",
+        "description": "Specialist in the call center field, responsible for providing service to a portfolio of large and/or key customers (mostly inbound)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH02",
+        "standardHayGrade": "13",
+        "levelName": "Individual Contributor",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1532",
+        "title": "Call Center Specialist II",
+        "description": "Specialist in the call center field, responsible for providing service to a portfolio of large and/or key customers (mostly inbound)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH02",
+        "standardHayGrade": "14",
+        "levelName": "Individual Contributor",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1533",
+        "title": "Call Center Specialist III",
+        "description": "Specialist in the call center field, responsible for providing service to a portfolio of large and/or key customers (mostly inbound)",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH02",
+        "standardHayGrade": "15",
+        "levelName": "Individual Contributor",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1534",
+        "title": "Call Center Supervisor I",
+        "description": "Responsible for supervizing a team within the call centre",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH03",
+        "standardHayGrade": "15",
+        "levelName": "Front Line Manager",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1535",
+        "title": "Call Center Supervisor II",
+        "description": "Responsible for supervizing a team within the call centre",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH03",
+        "standardHayGrade": "16",
+        "levelName": "Front Line Manager",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1536",
+        "title": "Call Center Supervisor III",
+        "description": "Responsible for supervizing a team within the call centre",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH03",
+        "standardHayGrade": "17",
+        "levelName": "Front Line Manager",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1537",
+        "title": "Call Center Manager I",
+        "description": "Ensures the delivery of excellent customer service, by acting upon customer telephone enquiries and responding to requests for information or service",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH04",
+        "standardHayGrade": "17",
+        "levelName": "Mid Level Manager",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1538",
+        "title": "Call Center Manager II",
+        "description": "Ensures the delivery of excellent customer service, by acting upon customer telephone enquiries and responding to requests for information or service",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH04",
+        "standardHayGrade": "18",
+        "levelName": "Mid Level Manager",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1539",
+        "title": "Call Center Manager III",
+        "description": "Ensures the delivery of excellent customer service, by acting upon customer telephone enquiries and responding to requests for information or service",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CCH04",
+        "standardHayGrade": "19",
+        "levelName": "Mid Level Manager",
+        "familyName": "Call Center",
+        "subFamilyName": "Inbound and Outbound",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1540",
+        "title": "Category Analyst / Support I",
+        "description": "Analyzing category data and giving support to development and delivery of category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA01",
+        "standardHayGrade": "13",
+        "levelName": "Individual Contributor",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1541",
+        "title": "Category Analyst / Support II",
+        "description": "Analyzing category data and giving support to development and delivery of category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA01",
+        "standardHayGrade": "14",
+        "levelName": "Individual Contributor",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1542",
+        "title": "Category Analyst / Support III",
+        "description": "Analyzing category data and giving support to development and delivery of category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA01",
+        "standardHayGrade": "15",
+        "levelName": "Individual Contributor",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1543",
+        "title": "Category Manager I",
+        "description": "Accountable for developing and realizing tactical category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA02",
+        "standardHayGrade": "16",
+        "levelName": "Individual Contributor",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1544",
+        "title": "Category Manager II",
+        "description": "Accountable for developing and realizing tactical category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA02",
+        "standardHayGrade": "17",
+        "levelName": "Individual Contributor",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1545",
+        "title": "Category Manager III",
+        "description": "Accountable for developing and realizing tactical category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA02",
+        "standardHayGrade": "18",
+        "levelName": "Individual Contributor",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1546",
+        "title": "Category Manager IV",
+        "description": "Accountable for developing and realizing tactical category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA02",
+        "standardHayGrade": "19",
+        "levelName": "Individual Contributor",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1547",
+        "title": "Manager of Category Managers I",
+        "description": "Hierarchical manages category team(s), or accountable for developing and realizing strategic category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA03",
+        "standardHayGrade": "18",
+        "levelName": "Front Line Manager",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1548",
+        "title": "Manager of Category Managers II",
+        "description": "Hierarchical manages category team(s), or accountable for developing and realizing strategic category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA03",
+        "standardHayGrade": "19",
+        "levelName": "Front Line Manager",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1549",
+        "title": "Manager of Category Managers III",
+        "description": "Hierarchical manages category team(s), or accountable for developing and realizing strategic category plans",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CMA03",
+        "standardHayGrade": "20",
+        "levelName": "Front Line Manager",
+        "familyName": "Category Management",
+        "subFamilyName": "Category Management",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1550",
+        "title": "Technical Customer Service Representative I",
+        "description": "Handles customer orders, enquiries and complaints and supports customers through (specialized) technical or scientific knowledge",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA01",
+        "standardHayGrade": "13",
+        "levelName": "Individual Contributor",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1551",
+        "title": "Technical Customer Service Representative II",
+        "description": "Handles customer orders, enquiries and complaints and supports customers through (specialized) technical or scientific knowledge",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA01",
+        "standardHayGrade": "14",
+        "levelName": "Individual Contributor",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1552",
+        "title": "Technical Customer Service Representative III",
+        "description": "Handles customer orders, enquiries and complaints and supports customers through (specialized) technical or scientific knowledge",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA01",
+        "standardHayGrade": "15",
+        "levelName": "Individual Contributor",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1553",
+        "title": "Technical Customer Service Representative IV",
+        "description": "Handles customer orders, enquiries and complaints and supports customers through (specialized) technical or scientific knowledge",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA01",
+        "standardHayGrade": "16",
+        "levelName": "Individual Contributor",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1554",
+        "title": "Technical Customer Service Team Leader I",
+        "description": "Supervises a team of technical service representatives, maintains proactive relationships with key customers and internal stakeholders on a regular basis and serves as an expert in handling  complex queries.",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA02",
+        "standardHayGrade": "15",
+        "levelName": "Front Line Manager",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1555",
+        "title": "Technical Customer Service Team Leader II",
+        "description": "Supervises a team of technical service representatives, maintains proactive relationships with key customers and internal stakeholders on a regular basis and serves as an expert in handling  complex queries.",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA02",
+        "standardHayGrade": "16",
+        "levelName": "Front Line Manager",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1556",
+        "title": "Technical Customer Service Team Leader III",
+        "description": "Supervises a team of technical service representatives, maintains proactive relationships with key customers and internal stakeholders on a regular basis and serves as an expert in handling  complex queries.",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA02",
+        "standardHayGrade": "17",
+        "levelName": "Front Line Manager",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1557",
+        "title": "Technical Customer Service Manager I",
+        "description": "Manages activities of a team of technical customer services representatives, ensuring effective delivery of service to all levels of internal and external customers",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA03",
+        "standardHayGrade": "17",
+        "levelName": "Mid Level Manager",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    },
+    {
+        "id": "1558",
+        "title": "Technical Customer Service Manager II",
+        "description": "Manages activities of a team of technical customer services representatives, ensuring effective delivery of service to all levels of internal and external customers",
+        "usageCount": 0,
+        "status": "PUBLISHED",
+        "locale": "en",
+        "jobRoleTypeId": "CSA03",
+        "standardHayGrade": "18",
+        "levelName": "Mid Level Manager",
+        "familyName": "Customer Service",
+        "subFamilyName": "Technical",
+        "accessRoles": "READ",
+        "isTemplateJob": true,
+        "profileType": "BEST_IN_CLASS",
+        "isProfileInProfileCollection": false,
+        "enableProfileMatchTool": true,
+        "source": [
+            {
+                "id": 0,
+                "type": "LAST_MODIFIED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            },
+            {
+                "id": 0,
+                "type": "CREATED_BY",
+                "firstName": "Korn",
+                "lastName": "Ferry",
+                "effectiveDateTime": 1517443200000
+            }
+        ]
+    }
+]
